@@ -1,0 +1,20 @@
+.bground{
+    background-color: rgb(215, 158, 158);
+}
+
+.movielist{
+    display:flex;
+    flex-direction: column;
+    margin-bottom: 5vh;
+    text-decoration: none;
+    color:black;
+}
+
+.movieImage{
+    height: 30vh;
+    width:max-content;
+}
+
+.movieName{
+    font-size: x-large;
+}
